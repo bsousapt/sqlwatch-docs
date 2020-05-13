@@ -17,7 +17,7 @@ Data collection from remote instances can be done with **SSIS** or by using **Li
 ### Linked Server
 
 {% hint style="success" %}
-No additional components are requied when using Linked Server.
+No additional components are required when using Linked Server.
 {% endhint %}
 
 ### SQL Integration Service \(SSIS\)
